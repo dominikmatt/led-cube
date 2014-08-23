@@ -1,0 +1,7 @@
+{
+  "name": "animo",
+  "version": "0.1.0",
+  "dependencies": {
+    "johnny-five": "0.8.*"
+  }
+}
